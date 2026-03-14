@@ -1,0 +1,19 @@
+{
+  "name": "Informe Diario · Asisted SJD",
+  "short_name": "Asisted SJD",
+  "description": "App de informes diarios de cuidado pediátrico",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a3a5c",
+  "theme_color": "#1a3a5c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%231a3a5c'/><text y='.9em' font-size='70' x='15'>🦋</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["health", "medical"],
+  "lang": "es"
+}
